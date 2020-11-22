@@ -1,7 +1,8 @@
 # Student Portfolio
 
 
-Hey! Welcome to my portfolio 
+Hey There ! 
+Welcome to my portfolio 
 currently learning html and css to build .
 
 
