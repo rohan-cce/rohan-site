@@ -108,3 +108,7 @@ body {
     text-align: center;
     padding: 2rem;
 }
+
+.ow{
+    background-color: var(--off-white);
+}
