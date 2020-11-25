@@ -50,4 +50,5 @@ body {
 /*navigation bar*/
 .navigation{
     background-color: var(--primary-color);
+    color:white;
 }
