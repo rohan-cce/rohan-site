@@ -2,7 +2,9 @@
 :root{
     --primary-color:#8B5CF6;
 }
-
+hr{
+    margin: 1rem 0rem;
+}
 body {
     font-family: 'Poppins', 
     sans-serif;
@@ -25,7 +27,7 @@ body {
     text-decoration: none;
     padding: 0.5rem 1rem;
 }
-.link-primary{
+.link-primary{ 
     background-color: var(--primary-color);
     border-radius: 0.5rem;
     color:white;
