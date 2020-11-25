@@ -63,3 +63,7 @@ body {
 .navigation .link {
     color:white;
 }
+
+.navigation .link-active{
+    font-weight: bold;
+}
