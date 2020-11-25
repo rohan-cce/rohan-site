@@ -42,3 +42,6 @@ body {
 .list-non-bullet{
     list-style: none;
 }
+.list-item-inline{
+    display: inline; 
+}
