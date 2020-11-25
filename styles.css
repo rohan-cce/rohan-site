@@ -75,5 +75,6 @@ body {
 }
 
 .hero .hero-img{
-
+ max-width: 350px;
+ 
 }
