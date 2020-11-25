@@ -19,6 +19,10 @@ body {
 }
 
 /** links **/
+
+.link{
+    text-decoration: none;
+}
 .primary-link{
     color: var(--primary-color);
 }
