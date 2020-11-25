@@ -88,3 +88,6 @@ body {
     color:var(--dark-gray);
 }
 
+.hero .hero-heading .heading-inverted{
+    color:var(--primary-color);
+}
