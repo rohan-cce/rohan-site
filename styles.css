@@ -77,4 +77,5 @@ body {
 .hero .hero-img{
  max-width: 350px;
  display: block;
+ text-align: center;
 }
