@@ -46,3 +46,8 @@ body {
     display: inline; 
     padding: 0rem 0.5rem;
 }
+
+/*navigation bar*/
+.navigation{
+    background-color: var(--primary-color);
+}
