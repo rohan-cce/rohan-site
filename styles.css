@@ -81,4 +81,6 @@ body {
  margin: auto;
 }
 
-.hero .hero-heading{}
+.hero .hero-heading{
+    font-size: x-large;
+}
