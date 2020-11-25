@@ -39,6 +39,6 @@ body {
 }
 
 /* lists */
-.non-bullet{
+.list-non-bullet{
     list-style: none;
 }
