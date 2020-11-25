@@ -25,12 +25,12 @@ body {
     text-decoration: none;
     padding: 0.5rem 1rem;
 }
-.primary-link{
+.link-primary{
     background-color: var(--primary-color);
     border-radius: 0.5rem;
     color:white;
 }
-.secondary-link{
+.link-secondary{
     color: var(--primary-color);
     border-radius: 0.5rem;
     border:1px solid var(--primary-color);
