@@ -52,6 +52,10 @@ body {
     background-color: var(--primary-color);
     color:white;
 }
+
+.navigation .nav-pills{
+    text-align: right;
+}
 .navigation .link {
     color:white;
 }
