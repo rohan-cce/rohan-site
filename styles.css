@@ -52,6 +52,6 @@ body {
     background-color: var(--primary-color);
     color:white;
 }
-.navigation li{
+.navigation .link {
     color:white;
 }
