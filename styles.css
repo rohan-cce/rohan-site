@@ -84,5 +84,6 @@ body {
 }
 
 .hero .hero-heading{
-    font-size: 2rem;
+    color:var(--dark-gray);
 }
+
