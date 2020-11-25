@@ -68,3 +68,8 @@ body {
 .navigation .link-active{
     font-weight: bold;
 }
+
+/*header*/
+.hero{
+    padding:2rem;
+}
