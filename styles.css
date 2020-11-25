@@ -31,5 +31,5 @@ body {
     color:white;
 }
 .secondary-link{
-    
+    color: var(--primary-color);
 }
