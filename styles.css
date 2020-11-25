@@ -22,6 +22,7 @@ body {
 
 .link{
     text-decoration: none;
+    padding: 0.5rem 1rem;
 }
 .primary-link{
     color: var(--primary-color);
