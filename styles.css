@@ -121,4 +121,5 @@ body {
 .footer{
     background-color: var(--primary-color);
     padding:2rem 0rem;
+    text-align: center;
 }
