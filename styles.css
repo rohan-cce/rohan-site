@@ -119,5 +119,5 @@ body {
 /**footer**/
 
 .footer{
-    background-color: var(--dark-gray);
+    background-color: var(--primary-color);
 }
