@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,400;1,500&display=swap');
 :root{
-    --primary-color:red;
+    --primary-color:#8B5CF6;
 }
 
 body {
@@ -26,5 +26,5 @@ body {
     padding: 0.5rem 1rem;
 }
 .primary-link{
-    color: var(--primary-color);
+    background-color: var(--primary-color);
 }
