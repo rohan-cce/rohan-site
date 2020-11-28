@@ -2,7 +2,7 @@
 
 :root {
     --primary-color: #5CDB95;
-    --off-white:#F3F4F6;
+    --off-white:#E5E7EB;
     --dark-gray: #6B7280;
 }
 
@@ -138,8 +138,12 @@ body {
 
 .footer{
     background-color: var(--primary-color);
-    padding:2rem 0rem;
+    padding:1rem 0rem;
     text-align: center;
+    max-height: 200px;
+    max-width: 600px;
+    margin: 0 auto;
+    align-items: center;
     color: white;
     border-top-right-radius: 1rem;
 }
