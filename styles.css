@@ -19,7 +19,7 @@ body {
 .container {
     /* padding-left: 1rem;
     padding-right: 1rem; */
-    padding: 1rem 0rem;
+    padding: 0.7rem 0rem;
 }
 
 .container-center {
@@ -75,7 +75,7 @@ body {
 }
 .navigation .nav-brand {
     font-weight: bold;
-    font-size: 1.1.rem;
+    font-size: 1.65rem;
 }
 
 .navigation .nav-pills {
@@ -123,6 +123,7 @@ body {
 
 .section{
     padding: 2rem;
+    text-align: center;
 }
 .section h1 {
     text-align: center;
@@ -130,6 +131,7 @@ body {
 
 .ow{
     background-color: var(--off-white);
+    text-align: center;
 }
 
 /**footer**/
@@ -151,4 +153,9 @@ color: white;
 
 .footer ul{
     padding-inline-start: 0px;
+}
+.clr:hover{
+    background:#067206;
+    border-radius: 0.5rem;
+
 }
