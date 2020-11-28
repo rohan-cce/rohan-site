@@ -1,10 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700&display=swap');
 
 :root {
-    --primary-color: #8B5CF6;
+    --primary-color: #5CDB95;
     --off-white:#F3F4F6;
     --dark-gray: #6B7280;
-
 }
 
 hr {
@@ -65,10 +64,15 @@ body {
     background-color: var(--primary-color);
     color: white;
     padding: 1rem;
+    max-width: 600px;
+    margin: 0 auto;
+    align-items: center;
     border-top-right-radius: 2rem;
     border-bottom-left-radius: 1rem;
 }
-
+.c-allign{
+    text-align: center;
+}
 .navigation .nav-brand {
     font-weight: bold;
     font-size: 1.1.rem;
@@ -109,7 +113,12 @@ body {
 .hero .hero-heading .heading-inverted {
     color: var(--primary-color);
 }
-
+.suma{
+    text-align: center;
+    font-size: 19px;
+    padding-top: 1rem;
+    color: var(--primary-color);
+}
 /** section **/
 
 .section{
